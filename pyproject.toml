@@ -8,6 +8,10 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 django = "^5.1"
+openai = "^1.42.0"
+langchain-openai = "^0.1.22"
+langchain = "^0.2.14"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
